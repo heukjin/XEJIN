@@ -7,7 +7,7 @@ const darkConfig = {
   owners: [
   {
     "name": "⛧ 𝐇𝐄𝐔𝐊𝐉𝐈𝐍 ⛧",
-    "number": "919643538305",
+    "number": "918108742384",
     "isPrimary": true,
     "socials": {
       "instagram": "https://www.instagram.com/heukjin143",
